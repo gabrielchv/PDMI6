@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Downloads\\PDMI6-Main\\TP03\\TP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\gabri\\downloads\\pdmi6-main\\tp03\\tp03\\tp03\\viewmodel\\packageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\viewmodel\\packageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PackageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Downloads\\PDMI6-Main\\TP03\\TP03\\TP03\\ViewModel\\PackageViewModel.cs",
+              "RelativeDocumentMoniker": "TP03\\ViewModel\\PackageViewModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\Downloads\\PDMI6-Main\\TP03\\TP03\\TP03\\ViewModel\\PackageViewModel.cs",
+              "RelativeToolTip": "TP03\\ViewModel\\PackageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:02:43.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
